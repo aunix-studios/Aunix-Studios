@@ -1,0 +1,23 @@
+{
+    "appName": "Aunix Studios",
+    "appIconPath": "favicon.png",
+    "splashPath": "favicon.png",
+    "packageName" : "com.aunixstudios.app",
+    "versionName" : "1.0.0",
+    "versionCode" : 1,
+    "isFullscreen" : false,
+    "isHideTitleBar" : true,
+    "titleBarBackgroundColor" : "#3F51B5",
+    "isAllowLongClick" : false,
+    "isShowLoadingUI" : true,
+    "isAllowZoom" : false,
+    "isPCMode" : false,
+    "isAllowAutoplay" : false,
+    "homePage" : "index.html",
+    "withPHPEnv": false,
+    "PHPPort": 57249,
+    "isAllowSwipeRefresh": true,
+    "screenRotationMethod": 0,
+    "isAllowCamera": false,
+    "isAllowMicrophone": false
+}
